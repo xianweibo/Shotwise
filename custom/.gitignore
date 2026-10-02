@@ -1,0 +1,4 @@
+# generated runtime state and logs - never useful as history
+state/
+*.orig
+*.rej
